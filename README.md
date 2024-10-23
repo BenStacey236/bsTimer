@@ -1,5 +1,5 @@
 # bsTimer
-A Rubik's Cube software inspired by poopular online program csTimer
+A Rubik's Cube software inspired by popular online program csTimer
 
 # App Features
 - 3D Simulated Rubiks cube that can be panned around by clicking and moving the mouse, and sides can be turned by pressing the corresponding key on the keyboard
